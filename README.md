@@ -7,9 +7,6 @@ I created a simple Password Manager in Rust that lets you store a website, usern
 The purpose behind writing this Password Manager was to practice Rust and learn more about the language. I wanted to learn more about Rust because I have heard a lot of good things about it and I wanted to see what it was like. I also wanted to learn more about Rust because I have heard that it is a good language for writing low level code. Creating a Password Manager was a good way to practice Rust because it allowed me to use a lot of the language's features. I was able to use structs, vectors, match statements, and so much more. I was also able to use random number and letter generation which was a lot of fun to implement. Overall, I learned a lot about Rust and I am excited to learn more about the language moving forward.
 
 
-# YouTube Demo
-
-[Password Manager Demo](https://youtu.be/1zA9AWgRcuQ)
 
 # Development Environment
 
